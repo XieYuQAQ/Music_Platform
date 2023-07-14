@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dde94d59-d695-4daf-a44a-4223b818dc78" name="test" url="https://music.zerokami.cn">
+        <fileTransfer rootFolder="/www/wwwroot/Music_Platform/" accessType="SFTP" host="zerokami.cn" port="22" sshConfigId="750edf94-a484-48f9-b33c-09f75f7c3959" sshConfig="root@zerokami.cn:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
